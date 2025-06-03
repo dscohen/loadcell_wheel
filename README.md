@@ -11,7 +11,7 @@ How to make your own loadcell using a strain gauge and an Arduino.
 | 22 AWG Wire | 5 in |  |
 | Foam Rubber | 1 | [Link](https://www.amazon.com/dp/B0D9S9JVCR?th=1) |
 | 3m command strip | 1 | [Link](https://www.amazon.com/Command-Medium-Adhesive-Hanging-Removable/) |
-| 3dp Load cell piston | 1 | [Link](loadcell_cap.stl) |
+| 3dp 100% infill polycarb Load cell piston | 1 | [Link](loadcell_cap.stl) |
 | 3dp Ergonomic paddle curve | 1 | [Link](grip_1.stl) |
 
 
