@@ -1,3 +1,7 @@
+# NOTE: I WILL BE UPDATING THIS WITH AN INA333 MODULE SOON.
+
+The HX711 has 80 SPS, so ~13 ms latency. I will be trying out an analog amp -> pro micro that will allow ~10k SPS.
+
 # Loadcell
 
 How to make your own loadcell using a strain gauge and an Arduino.
